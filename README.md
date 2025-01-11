@@ -2,7 +2,7 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Meu avatar em Machi picchu
+Meu avatar em Machu picchu
 
 ## 🤖 Tecnologias Utilizadas
 Chat GPT
